@@ -1,6 +1,5 @@
-# Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
+# Ex-06---SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -114,8 +113,8 @@ Once the printing is complete, the model needs to cool down to ensure stability.
 Post-processing:
 Depending on the desired outcome, post-processing steps such as sanding, painting, or additional finishing may be performed to enhance the appearance and functionality of the printed object
 
-### Name:V.A.JTIHENDRA
-### Register Number:2122221230043
+### Name: KERSOAN P
+### Register Number: 212221230050
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
