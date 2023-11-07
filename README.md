@@ -1,11 +1,14 @@
-# Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
+# Ex--06--SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
+```
+Name: Kersoan P
+Register Number: 212221230050
+```
 
 ## PROCEDURE:
 ### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
@@ -23,8 +26,6 @@
 ## Output:
 ![6](https://github.com/Aakash0407/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118799103/dab25354-7e30-4d5c-af67-0880bc0f5531)
 
-### Name: BEJIN B
-### Register Number: 212222230021
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
